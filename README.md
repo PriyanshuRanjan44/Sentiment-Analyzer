@@ -87,7 +87,7 @@ This project applies Natural Language Processing (NLP) techniques to analyze and
 
 - **Confusion Matrix**: Visualize true vs predicted sentiment labels
 - **Classification Report**: Precision, recall, and F1-score breakdown
-- **(Optional)** ROC Curve: Shows trade-off between true/false positive rates
+-  ROC Curve: Shows trade-off between true/false positive rates
 
 ---
 
